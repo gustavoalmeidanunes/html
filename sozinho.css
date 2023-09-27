@@ -1,0 +1,67 @@
+ * {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+
+ header {
+    margin: 47px 0px 178px 42px;
+ }
+ .company-botao {
+   width: 124px;
+   height: 51px;
+   border: none;
+   border-radius:  40px;
+   background-color:  #4CB538;
+   margin-left: 32px;
+    
+    
+ }
+
+ .company-header {
+    width: 37px;
+    height: 21px;
+    font-weight: 450px;
+    font-size: 14px;
+    line-height: 21PX;
+    color: #17233D;
+    margin-left: 32px;
+
+
+ 
+ }
+
+ img {
+    width: 595px;
+    height: 500px;
+    margin-left: 121px;
+    
+ }
+
+
+ h1 {
+
+    width: 582px;
+    height: 164px;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+    font-weight: 700px;
+     display:  inline;
+ 
+
+   
+ }
+
+ p {
+   width: 493px;
+   height: 99px  ;
+   font-size: 18px;
+   line-height: 32px;
+display:  inline;
+   
+  
+ }
+  
+ 
